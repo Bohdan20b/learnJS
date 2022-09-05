@@ -1,1 +1,1 @@
-# LogosJS
+# soloJS
